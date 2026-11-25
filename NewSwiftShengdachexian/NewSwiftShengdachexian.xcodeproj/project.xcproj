@@ -31,15 +31,9 @@
       },
     }, {
       "kind": "remote",
-      "repository": "https://github.com/SnapKit/Masonry.git",
+      "repository": "https://github.com/SnapKit/SnapKit.git",
       "version": {
-        "up-to-next-major-version": "1.0.0",
-      },
-    }, {
-      "kind": "remote",
-      "repository": "https://github.com/ibireme/YYKit.git",
-      "version": {
-        "up-to-next-major-version": "1.0.9",
+        "up-to-next-major-version": "6.0.0",
       },
     },
   ],
